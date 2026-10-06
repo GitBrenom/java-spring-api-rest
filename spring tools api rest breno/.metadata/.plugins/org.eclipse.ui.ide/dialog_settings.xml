@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="installedFeatures">
+		<item value="org.eclipse.egit.gitflow.feature:7.5.0.202512021534-r"/>
+		<item value="org.eclipse.egit:7.5.0.202512021534-r"/>
+		<item value="org.eclipse.epp.mpc:1.13.0.v20250816-1241"/>
+		<item value="org.eclipse.help:2.3.2400.v20251201-0920"/>
+		<item value="org.eclipse.jgit.gpg.bc:7.5.0.202512021534-r"/>
+		<item value="org.eclipse.jgit.http.apache:7.5.0.202512021534-r"/>
+		<item value="org.eclipse.jgit.lfs:7.5.0.202512021534-r"/>
+		<item value="org.eclipse.jgit.ssh.apache:7.5.0.202512021534-r"/>
+		<item value="org.eclipse.jgit:7.5.0.202512021534-r"/>
+		<item value="org.eclipse.jst.common.fproj.enablement.jdt:3.40.0.v202509230407"/>
+		<item value="org.eclipse.m2e.feature:2.10.0.20251127-1007"/>
+		<item value="org.eclipse.m2e.logback.feature:2.7.200.20251018-1026"/>
+		<item value="org.eclipse.m2e.wtp.feature:1.6.1.20231024-1618"/>
+		<item value="org.eclipse.mylyn.wikitext.feature:4.9.0.v20251119-1306"/>
+		<item value="org.eclipse.platform:4.38.0.v20251201-0920"/>
+		<item value="org.eclipse.rcp:4.38.0.v20251201-0920"/>
+		<item value="org.eclipse.wst.common.fproj:3.40.0.v202510300123"/>
+	</list>
+</section>
